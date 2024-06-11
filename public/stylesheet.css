@@ -1,0 +1,4 @@
+.grid { 
+    columnWidth: 400;
+    horizontalOrder: true; }
+.grid-item { width: 30%; }
